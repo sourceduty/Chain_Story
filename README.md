@@ -9,7 +9,7 @@ There are 3 open stories available to visitors. Each story starts with "Once upo
 
 - Storylines composed from unique website visitors text-entry data.
 
-### CHTAGPT
+### CHATGPT
 
 [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
 
