@@ -1,3 +1,5 @@
+![Chain Story](https://github.com/sourceduty/Chain_Story/assets/123030236/5aade2d7-0c80-4ea0-841c-498c6e8be9b3)
+
 ### Chain_Story
 ⛓️ Single .txt file text-based fictional stories composed from 100 text-entry sentences entered by website visitors.
 
