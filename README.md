@@ -11,12 +11,12 @@ There are 3 open stories available to visitors. Each story starts with "Once upo
 
 - Storylines composed from unique website visitors text-entry data.
 
+#
 ### CHATGPT
 
 [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
 
 Collaborative sentence-by-sentence story creator. 
 
-#
-
-ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
