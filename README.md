@@ -15,7 +15,7 @@ There are 3 open stories available to visitors. Each story starts with "Once upo
 
 [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
 
-Collaborative storytelling across different genres.
+Collaborative sentence-by-sentence story creator. 
 
 #
 
