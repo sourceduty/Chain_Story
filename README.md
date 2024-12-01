@@ -12,6 +12,8 @@ In addition to its storytelling, Chain Story is programmed to avoid overly compl
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
